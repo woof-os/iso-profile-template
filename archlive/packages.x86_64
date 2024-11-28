@@ -167,6 +167,7 @@ pipewire
 wireplumber
 pipewire-pulse
 pipewire-alsa
+wget
 pavucontrol
 neovim
 exa
