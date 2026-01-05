@@ -129,8 +129,6 @@ base-devel
 fakeroot
 flameshot
 git
-gtk2
-gtk3
 grub-btrfs
 htop
 kcrash
@@ -177,8 +175,6 @@ vifm
 zathura
 mpv
 themix-theme-oomox-git
-gtk-engines
-gtk-engine-murrine
 ripgrep
 
 ### parts most likely to be customized
