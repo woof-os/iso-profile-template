@@ -173,6 +173,7 @@ zathura
 mpv
 themix-theme-oomox-git
 ripgrep
+nwg-look
 
 ### parts most likely to be customized
 
@@ -188,4 +189,3 @@ ripgrep
 # lightdm-gtk-greeter
 # lightdm-gtk-greeter-settings
 # woof-rofi-config - replace with relevant run launcher
-
